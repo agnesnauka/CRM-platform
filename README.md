@@ -25,7 +25,9 @@ Considering, that APIs are always used for some integration or automation of a m
 
 Expected project outcomes
 
-1. Tested and stable API for the following functionalities:a. Leads management (creation and management of the customer’s database);
+1. Tested and stable API for the following functionalities:
+   
+  a. Leads management (creation and management of the customer’s database);
    
   b. Invitation of new users;
 
