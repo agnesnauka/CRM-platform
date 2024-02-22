@@ -26,7 +26,13 @@ Considering, that APIs are always used for some integration or automation of a m
 Expected project outcomes
 
 1. Tested and stable API for the following functionalities:a. Leads management (creation and management of the customer’s database);
-b. Invitation of new users;
-c. Funnels management (creation and management of CRM funnels);
-d. Deals management (creation and management of deals in different funnels. 2. Testing documentation in a form of test cases and end-to-end test cases.
-3. Postman collections for testing of API.
+   
+  b. Invitation of new users;
+
+  c. Funnels management (creation and management of CRM funnels);
+
+  d. Deals management (creation and management of deals in different funnels. 
+
+2. Testing documentation in a form of test cases and end-to-end test cases.
+   
+4. Postman collections for testing of API.
