@@ -1,7 +1,7 @@
 # CRM-platform
-Project overview Our customer
+Project overview 
 
-Elevate Digital is a digital agency offering innovative marketing and web design solutions. They use custom strategies, eye-catching visuals, and data-driven optimization to make online experiences that are fun and increase the visibility of a company's brand.
+Our customer Elevate Digital is a digital agency offering innovative marketing and web design solutions. They use custom strategies, eye-catching visuals, and data-driven optimization to make online experiences that are fun and increase the visibility of a company's brand.
 Elevate Digital's most important services are managing social media, making content, SEO, PPC advertising, web design, and email marketing. By leveraging social media, they showcase their expertise and build brand awareness. They show their skills and credibility by sharing success stories, industry trends, and testimonials from clients in posts that are interesting and fun to read. They also use social media advertising to reach their target audiences. To get new clients, they offer free consultations or special deals. By taking part in online conversations and working with influential people, Elevate Digital builds trust, shows off its thought leadership, and grows a community of customers who promote its services.
 
 Background
